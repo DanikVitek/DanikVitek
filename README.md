@@ -9,6 +9,10 @@ Languages I'm using and/or familiar with (and relevant technologies):
 - GDScript (Godot)
 - C#
 
+I'm planning on learning
+- Kotlin for Android development
+- Swift
+
 # GitHub Activity
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DanikVitek&theme=dark&show_icons=true)
