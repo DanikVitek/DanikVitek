@@ -2,7 +2,7 @@
 
 Languages I'm using and/or familiar with (and relevant technologies):
 - Java (Spigot/Paper, Spring, Maven/Gradle.kts)
-- Rust (Tokio, Leptos, Serde, Clap, Pest, Nom, etc.)
+- Rust (Tauri, Tokio, Leptos, Serde, Clap, Pest, Nom, etc.)
 - Kotlin (KODEIN)
 - Zig
 - JS/TS (Svelte, Solid)
