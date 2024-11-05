@@ -3,14 +3,14 @@
 Languages I'm using and/or familiar with (and relevant technologies):
 - Java (Spigot/Paper, Spring, Maven/Gradle.kts)
 - Rust (Tauri, Tokio, Leptos, Serde, Clap, Pest, Nom, etc.)
-- Kotlin (KODEIN)
+- Kotlin
 - Zig
 - JS/TS (Svelte, Solid)
 - GDScript (Godot)
 - C#
 
 I'm planning on learning
-- Kotlin for Android development
+- Elixir
 - Swift
 
 # GitHub Activity
